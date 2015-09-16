@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:35.799606
+#+DATE: 2015-08-30 20:50:38.068567
 #+TITLE: 雜阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1552
 #+PROPERTY: ID KR6l0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1552
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0017_T_005-0907c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《雜阿毘曇心論》卷第五¶
+《雜阿毘曇心論》卷第五¶
 ¶
 尊者法救造¶
 宋天竺三藏僧伽跋摩等譯¶
 
-5賢聖品
-:PROPERTIES:
-:head: 賢聖品第五
-:END:
-¶
+賢聖品第五¶
 
 已說諸煩惱。修行今當說。¶
 
@@ -795,7 +790,7 @@
 便不常方便不退亦不進。必昇進者。常方便¶
 頓方便是鈍根能得不動。不動法者。常頓方¶
 便是利根。有說。若退法者必退。乃至得必¶
-昇進。必昇進者必昇進。彼說六種。是欲¶
+昇進。必昇進者必昇進昇進。彼說六種。是欲¶
 界阿羅漢。色無色界有二種。住法及不動法¶
 有說。退法不必退。若退者唯此種性非餘。彼¶
 說三界悉有六種阿羅漢。隨信行生五者。此¶
