@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:35.749688
+#+DATE: 2015-08-30 20:50:43.199031
 #+TITLE: 雜阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1552
 #+PROPERTY: ID KR6l0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1552
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0017_T_004-0899c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《雜阿毘曇心論》卷第四¶
+《雜阿毘曇心論》卷第四¶
 ¶
 尊者法救造¶
 宋天竺三藏僧伽跋摩等譯¶
 
-4使品
-:PROPERTIES:
-:head: 使品第四
-:END:
-¶
+使品第四¶
 
 已廣說業。彼業伴煩惱受種種生。非離煩惱。¶
 煩惱今當說。¶
