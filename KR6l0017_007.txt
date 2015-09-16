@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:35.969205
+#+DATE: 2015-08-30 20:50:41.881155
 #+TITLE: 雜阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1552
 #+PROPERTY: ID KR6l0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1552
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0017_T_007-0923c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《雜阿毘曇心論》卷第七¶
+《雜阿毘曇心論》卷第七¶
 ¶
 尊者法救造¶
 宋天竺三藏僧伽跋摩等譯¶
 
-7定品
-:PROPERTIES:
-:head: 定品第七
-:END:
-¶
+定品第七¶
 
 已說智。定今當說。¶
 
@@ -267,8 +262,7 @@
 作滅止妙出無相思惟如是外及內外無相亦¶
 無相。無相三摩提修多羅品當廣說。重三昧¶
 雜品當廣說。通者六通智品已說。問若修神¶
-通作證道(證者顯現義也謂不失所作則所作顯也)。彼成神通時為¶
-起耶不起耶。答若解脫是無記者。彼則起¶
+通作證道(證者顯現義也謂不失所作則所作顯也)。彼成神通時為起耶不起耶。答若解脫是無記者。彼則起¶
 (出定名為起。若解脫是無記者。則出三昧也。若是善即三昧也)。若善者不起無量者。¶
 
 #+BEGIN_VERSE

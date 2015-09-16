@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:36.128862
+#+DATE: 2015-08-30 20:50:42.037240
 #+TITLE: 雜阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1552
 #+PROPERTY: ID KR6l0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1552
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0017_T_011-0959b> 
 #+PROPERTY: JUAN 11
 ¶
-
- 《雜阿毘曇心論》卷第十一¶
+《雜阿毘曇心論》卷第十一¶
 ¶
 尊者法救造¶
 宋天竺三藏僧伽跋摩等譯¶
@@ -539,11 +538,7 @@
 可了知。前已說。是故增益論本。隨順修多羅¶
 義。令易了知。以知義故煩惱則斷。¶
 
-11論品
-:PROPERTIES:
-:head: 《雜阿毘曇心論》品第十一
-:END:
-¶
+《雜阿毘曇心論》品第十一¶
 
 已說擇品。今當略說諸論。令智者欣樂。¶
 
