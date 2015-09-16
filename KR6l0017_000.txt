@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 雜阿毘曇心論
+#+DATE: 2015-08-30 20:50:36.437940
+#+PROPERTY: JUAN 0
