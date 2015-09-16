@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:35.849758
+#+DATE: 2015-08-30 20:50:42.552609
 #+TITLE: 雜阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1552
 #+PROPERTY: ID KR6l0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1552
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0017_T_006-0916c> 
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《雜阿毘曇心論》卷第六¶
+《雜阿毘曇心論》卷第六¶
 ¶
 尊者法救造¶
 宋天竺三藏僧伽跋摩等譯¶
 
-6智品
-:PROPERTIES:
-:head: 智品第六
-:END:
-¶
+智品第六¶
 
 已說建立賢聖人。智今當說。¶
 
